@@ -6,7 +6,7 @@
 
 Skills - Python , SQL , Machine Learning , Tableau , Power BI ,  Advance Excel
 have done virtual internship for data analysis in the Accenture.
-open to learn new technologies.
+Open to learn new technologies.
 
 <!---
 ankit-yadav2286/ankit-yadav2286 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
