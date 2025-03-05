@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ankit Yadav
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Deep learning
-- 💞 I'm open to internship oppurtunities
 - 📫 How to reach me himanshuyadav.2286@gmail.com
 
 Skills - Python , SQL , Machine Learning , Tableau , Power BI ,  Advance Excel , Time Series
